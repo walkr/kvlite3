@@ -1,2 +1,8 @@
 test:
-	@go test -bench=".*" -covermode=count
+	@go test
+
+bench:
+	@go test -bench=".*"
+
+coverage:
+	@go test -covermode=count
