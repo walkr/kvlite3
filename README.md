@@ -2,6 +2,8 @@ kvlite3
 ========
 simple key-value store backed by sqlite3 for the Go language
 
+[![Build Status](https://travis-ci.org/walkr/kvlite3.svg?branch=master)](https://travis-ci.org/walkr/kvlite3)
+
 ## "Features":
 
  * basic put/get/getall operations
